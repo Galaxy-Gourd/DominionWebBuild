@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Dominion_Unity-0.1.0";
 const contentToCache = [
-    "Build/web_apr8_1.loader.js",
-    "Build/web_apr8_1.framework.js",
-    "Build/web_apr8_1.data",
-    "Build/web_apr8_1.wasm",
+    "Build/web_apr8_2.loader.js",
+    "Build/web_apr8_2.framework.js",
+    "Build/web_apr8_2.data",
+    "Build/web_apr8_2.wasm",
     "TemplateData/style.css"
 
 ];
